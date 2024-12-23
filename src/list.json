@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "by Harper Lee | 11 July 1960",
+    "price": 350,
+    "img": "https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "by George Orwell | 8 June 1949",
+    "price": 299,
+    "img": "https://m.media-amazon.com/images/I/71kxa1-0mfL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 13,
+    "title": "Jurassic Park",
+    "author": "by Michael Crichton | 20 November 1990",
+    "price": 450,
+    "img": "https://m.media-amazon.com/images/I/91CbcH+c5eL._AC_UL480_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "by F. Scott Fitzgerald | 10 April 1925",
+    "price": 450,
+    "img": "https://m.media-amazon.com/images/I/81h1O7qV4xL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 5,
+    "title": "Moby Dick",
+    "author": "by Herman Melville | 18 October 1851",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/91DXESEMMML._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 6,
+    "title": "War and Peace",
+    "author": "by Leo Tolstoy | 1869",
+    "price": 499,
+    "img": "https://m.media-amazon.com/images/I/71Zm6fq9jsL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 7,
+    "title": "Crime and Punishment",
+    "author": "by Fyodor Dostoevsky | 1866",
+    "price": 480,
+    "img": "https://m.media-amazon.com/images/I/91y4Xf0a7pL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "author": "by J.D. Salinger | 16 July 1951",
+    "price": 300,
+    "img": "https://m.media-amazon.com/images/I/81OthjkJBuL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 9,
+    "title": "The Hobbit",
+    "author": "by J.R.R. Tolkien | 21 September 1937",
+    "price": 350,
+    "img": "https://m.media-amazon.com/images/I/91b0C2YNSrL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 10,
+    "title": "Wuthering Heights",
+    "author": "by Emily Brontë | 1847",
+    "price": 275,
+    "img": "https://m.media-amazon.com/images/I/71QRuMROjhL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 11,
+    "title": "Brave New World",
+    "author": "by Aldous Huxley | 1932",
+    "price": 320,
+    "img": "https://m.media-amazon.com/images/I/51CWnp7rtlL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  },
+  {
+    "id": 12,
+    "title": "Les Misérables",
+    "author": "by Victor Hugo | First Published 1862",
+    "price": 399,
+    "img": "https://m.media-amazon.com/images/I/81rKg3vTlCL._AC_UY327_FMwebp_QL65_.jpg",
+    "amount": 1
+  }
+]
